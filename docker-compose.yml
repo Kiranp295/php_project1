@@ -2,7 +2,7 @@ version: '2'
 
 services:
   product-service:
-    image: ganeshhp/php_project:latest
+    image: kiranp295/php_project1:latest
     ports:
       - 5001:80
 
